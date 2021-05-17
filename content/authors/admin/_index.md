@@ -19,7 +19,7 @@ bio: My research interests include biocultural anthropology, diet and health, Af
 # Interests to show in About widget
 interests:
 - Osteology
-- Digital manuscrript
+- Stable isotopes
 - 3D photogrammetry
 
 # Education to show in About widget
@@ -31,7 +31,7 @@ education:
   - course: M.A. in Anthropology
     institution: Unversity of Colorado in Denver 
     year: 2018
-  - course: BA in Anthropology
+  - course: B.A. in Anthropology
     institution: Texas Tech Univerrsity
     year: 2015
 
