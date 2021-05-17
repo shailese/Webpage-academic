@@ -1,39 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Sewasew Haileselassie Assefa
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. Student 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Washington University in St. louis
+  url: https://www.wustl.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include biocultural anthropology, diet and health, African and african diaspora history, and 3D photogrammetry.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Osteology
+- Digital manuscrript
+- 3D photogrammetry
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: A.M. in Anthropoology
+    institution: Washington University in St. Louis
+    year: 2021
+  - course: M.A. in Anthropology
+    institution: Unversity of Colorado in Denver 
+    year: 2018
+  - course: BA in Anthropology
+    institution: Texas Tech Univerrsity
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
