@@ -70,8 +70,6 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Sewasew Haileselassie Assefa is a bioarchaeologist/biocultural anthropologist and Ph.D. student at Washington University in St. Louis. She is interested in understanding the effects of sociopolitical and economic factors on health and its interlinkage with various dietary adaptations employed to combat social and environmental stress during the medieval period. Currently, she researches Ethiopian populations using osteological and isotopic methods and contextualizes sociopolitical and economic factors through the rich textual and historical sources available.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
