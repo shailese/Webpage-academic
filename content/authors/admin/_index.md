@@ -61,7 +61,7 @@ social:
 # and uncomment the lines below.
  - icon: cv
    icon_pack: ai
-   link: media/resume.pdf
+   link: /Users/sewasew/Documents/GitHub/starter-academic/Webpage-academic/static/media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -72,4 +72,4 @@ highlight_name: false
 
 Sewasew Haileselassie Assefa is a bioarchaeologist/biocultural anthropologist and Ph.D. student at Washington University in St. Louis. She is interested in understanding the effects of sociopolitical and economic factors on health and its interlinkage with various dietary adaptations employed to combat social and environmental stress during the medieval period. Currently, she researches Ethiopian populations using osteological and isotopic methods and contextualizes sociopolitical and economic factors through the rich textual and historical sources available.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "/Users/sewasew/Documents/GitHub/starter-academic/Webpage-academic/static/media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
