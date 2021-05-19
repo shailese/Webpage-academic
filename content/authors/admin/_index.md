@@ -61,7 +61,7 @@ social:
 # and uncomment the lines below.
  - icon: cv
    icon_pack: ai
-   link: /Users/sewasew/Documents/GitHub/starter-academic/Webpage-academic/static/media/resume.pdf
+   link: static/media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
