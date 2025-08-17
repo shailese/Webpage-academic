@@ -6,18 +6,22 @@ title: Sewasew Haileselassie Assefa
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Student 
+role: Researcher, Museum professional, Storyteller
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Washington University in St. louis
   url: https://www.wustl.edu/
+- name: The Griot Museum of Black History
+  url: https://www.thegriotmuseum.com
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include biocultural anthropology, diet and health, African and african diaspora history, and 3D photogrammetry.
+bio: My research interests include African and African diaspora history and archaeology, biocultural anthropology, diet and health reconstruction, and 3D photogrammetry.
 
 # Interests to show in About widget
 interests:
+- Archaeology
+- Archives
 - Osteology
 - Stable isotopes
 - 3D photogrammetry
@@ -25,9 +29,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: A.M. in Anthropoology
+  - course: Ph.D. in Anthropoology
     institution: Washington University in St. Louis
-    year: 2021
+    year: 2025
   - course: M.A. in Anthropology
     institution: Unversity of Colorado in Denver 
     year: 2018
@@ -61,7 +65,8 @@ social:
 # and uncomment the lines below.
 - icon: CV
   icon_pack: ai
-  link: static/media/resume.pdf
+  link: static/media/resume.pdf[Assefa_CV 2025.docx](https://github.com/user-attachments/files/21823125/Assefa_CV.2025.docx)
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +75,6 @@ email: ""
 highlight_name: false
 ---
 
-Sewasew Haileselassie Assefa is a bioarchaeologist/biocultural anthropologist and Ph.D. student at Washington University in St. Louis. She is interested in understanding the effects of sociopolitical and economic factors on health and its interlinkage with various dietary adaptations employed to combat social and environmental stress during the medieval period. Currently, she researches Ethiopian populations using osteological and isotopic methods and contextualizes sociopolitical and economic factors through the rich textual and historical sources available.
+Sewasew Haileselassie Assefa is a bioarchaeologist/biocultural anthropologist. She earned her Ph.D. from Washington University in St. Louis. She is interested in understanding the effects of sociopolitical and economic factors on health and its interlinkage with various dietary traditions employed to combat social and environmental stress during the medieval period. Currently, she researches Swahili populations of the Kenya Coast using osteological and isotopic methods and contextualizes sociopolitical and economic factors through the rich textual and historical sources available.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "static/media/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
